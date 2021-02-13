@@ -1,9 +1,14 @@
 # Jogo .Css .JavaScript .Html
 
-# 
 
-# ![](E:\Queops\Queops JavaScriptTestes\JogoNaveGeral\JogoNave\imgs\fundo_game.jpg)
-![](E:\Queops\Queops JavaScriptTestes\JogoNaveGeral\JogoNave\imgs\inimigo2.png)
+
+![](https://github.com/queopsvitoria/JogoNave/blob/main/imgs/fundo_game.jpg?raw=true)
+
+
+
+![](https://github.com/queopsvitoria/JogoNave/blob/main/imgs/inimigo1.png?raw=true)
+
+![](https://github.com/queopsvitoria/JogoNave/blob/main/imgs/inimigo2.png?raw=true)
 
 **Requisitos:**
 
